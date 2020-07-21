@@ -3,7 +3,8 @@
 ## Info
 
 This project was built in React and is getting its data from diseas.sh because they have an API
-that can feed the project with data about the current Cases, Recovered and Deaths.
+that can feed the project with data about the current Cases, Recovered and Deaths. You can have a
+have a look at the project live hosted with Firebase at https://covid19-tracker-7a4e5.web.app/
 
 ## Available Scripts
 
